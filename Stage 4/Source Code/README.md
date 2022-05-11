@@ -6,6 +6,6 @@
  * Proprietary code
  * Future opporutnity with client(s)
 
- An invite has been sent to Dr. Varela's ENMU email address.
+ An invite has been sent to Dr. Varela's email for access.
 
  Click [here](https://www.losportalestheatre.com) for live prototype.
